@@ -5,7 +5,7 @@
 <h3 align="center">An application developer and tester 👾, interested in the optimization and correct functioning of applications 🐱‍👤. From time to time I am making improvements to projects and learning new things to implement.🍃</h3>
 </div>
 
-<img src="https://imgur.com/a/rHw12y2">
+<img src="https://imgur.com/Pv1sfjq">
 
 - 🐱‍👤 I’m currently studing at **ITLA**
 
