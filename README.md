@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Keury Ramírez
-- 🌱 I’m currently learning C# & MYSQL
-- 💞️ I’m looking to collaborate with new projects in Angular, React in a fullstack way.
-- 📫 How to reach me ...
+<h1 align="center">I'm Keury Ramírez</h1>
+<h3 align="center">An application developer and tester interested in the optimization and correct functioning of applications. From time to time I am making improvements to projects and learning new things to implement.🍃</h3>
 
-<!---
-K3ury99/K3ury99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🐱‍👤 I’m currently studing at **ITLA**
+
+- 👾 I’m currently learning **C# & MYSQL**
+
+- 💬 Ask me about **C#, Python, Angular**
+
+- 📫 How to reach me **keury2004@hotmail.com**
