@@ -5,6 +5,6 @@
 
 - 👾 I’m currently learning **C# & MYSQL**
 
-- 💬 Ask me about **C#, Python, Angular**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **keury2004@hotmail.com**
