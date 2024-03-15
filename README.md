@@ -29,13 +29,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3ury99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 **I'm a Night 🦉** 
-
-´´´text
+```text
 🌞 Morning    2 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   2.8% 
 🌆 Daytime    8 commits     ████░░░░░░░░░░░░░░░░░░░░░   8.5% 
 🌃 Evening    15 commits    ███████░░░░░░░░░░░░░░░░░░   26.1% 
 🌙 Night      63 commits    ███████████████░░░░░░░░░░   63.9%
-´´´
+
+```
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
