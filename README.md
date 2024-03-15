@@ -4,14 +4,14 @@
 <img src="https://imgur.com/1C1BlRA.png">
 
 <div align="center">
-<h3 align="center">An application developer and tester 👾, interested in the optimization and correct functioning of applications ♟. From time to time I am making improvements to projects and learning new things to implement.🍃</h3>
+<h3 align="center">An application developer and tester 👾, interested in the optimization and correct functioning of applications 🛠. From time to time I am making improvements to projects and learning new things to implement.🍃</h3>
 </div>
 #
 #
 #
 
 
-- ♦ I’m currently studing at **ITLA**
+- 🏆 I’m currently studing at **ITLA**
 
 - 👾 I’m currently learning **C# & MYSQL**
 
