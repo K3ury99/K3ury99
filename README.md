@@ -17,7 +17,7 @@
 
 - 🏆 I’m currently studing at **ITLA**
 
-- 👾 I’m currently learning **C# & Sqlite3**
+- 👾 I’m currently learning **Asp.Net-Core MVC & Sqlite3**
 
 - 💬 Ask me about **Web Development**
 
