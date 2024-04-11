@@ -13,7 +13,7 @@
  
 # 📔 About me:
 <!-- <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> --> 
-<img width="45%" height="100%" align="right" alt="Github" src="https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg" />
+<img width="50%" height="100%" align="right" alt="Github" src="https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg" />
 
 - 🏆 I’m currently studing at **ITLA**
 
