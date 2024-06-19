@@ -32,7 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=K3ury99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)   ![](https://github-readme-streak-stats.herokuapp.com/?user=K3ury99&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3ury99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🦉`I'm a Night`
+# 🦉`I'm a Night`
 ```text
 🌞 Morning    2 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   2.8% 
 🌆 Daytime    8 commits     ████░░░░░░░░░░░░░░░░░░░░░   8.5% 
@@ -41,7 +41,7 @@
 
 ```
 
-## ✍️ `Dev Quote`
+# ✍️ `Dev Quote`
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
