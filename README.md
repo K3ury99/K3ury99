@@ -15,7 +15,7 @@
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- <img width="46%" height="100%" align="right" alt="Github" src="https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg" /> -->
 
-- 🏆 I’m currently studing at **ITLA**
+- 🏆 I’m currently studing at <a  href="https://itla.edu.do/tecnologia-en-desarrollo-de-software/">**ITLA**</a>
 
 - 👾 I’m currently learning **Asp.Net-Core MVC & Sqlite3**
 
