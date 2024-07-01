@@ -17,7 +17,7 @@
 
 - 🏆 I’m currently studing at <a  href="https://itla.edu.do/tecnologia-en-desarrollo-de-software/">**ITLA**</a>
 
-- 👾 I’m currently learning **Asp.Net-Core MVC & API´s**
+- 👾 I’m currently learning **Asp.Net-Core MVC "Clean Arquitecture" & API´s**
 
 - 💬 Ask me about **Web Development**
 
