@@ -32,7 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=K3ury99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)   ![](https://github-readme-streak-stats.herokuapp.com/?user=K3ury99&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3ury99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# ✨ `Proyects Resume`
+# ✨ `Project Overview`
 <img src="https://github.com/user-attachments/assets/ce711a0c-7d6a-4609-aa0a-d83da3c9b47f"></img>
 
 # 🦉`I'm a Night`
