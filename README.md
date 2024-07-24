@@ -47,6 +47,8 @@
 # ✍️ `Dev Quote`
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+<a href=#><img src="contributions.svg"></a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=K3ury99&icon=2&color=12)](https://visitcount.itsvg.in)
 
