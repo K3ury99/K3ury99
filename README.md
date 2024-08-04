@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/4b3811ed-6e39-4132-8a0f-a84add3dafe8"> 
 
 <div align="center"> 
-<h1 align="center">Hey, I´m <a  href="https://github.com/K3ury99">Keury Ramírez</a>.🍃</h1>   
+<h1 align="center">Hey, I´m <a  href="https://github.com/K3ury99">Keury Ramírez</a>.</h1>   
 </div>   
 
 <div align="center">
