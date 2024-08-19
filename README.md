@@ -1,6 +1,9 @@
    
 <img src="https://github.com/user-attachments/assets/4c7139ff-132d-41ad-8ef6-3e2a8b8c2655"> 
 
+[![Descargar archivo](https://img.shields.io/badge/Descargar%20archivo-%23007bff?style=for-the-badge&logo=download&logoColor=white)](https://github.com/K3ury99/K3ury99/blob/main/CV%20-%20Keury%20Ramirez%20-%202024%20EN.pdf)
+
+
 <div align="center"> 
 <h1 align="center">Hey, I´m <a  href="https://github.com/K3ury99">Keury Ramírez</a>.</h1>   
 </div>   
