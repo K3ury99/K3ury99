@@ -4,7 +4,7 @@
 <div align="center">
   <h1 align="center">
     Hey, I´m <a href="https://github.com/K3ury99">Keury Ramírez</a>.
-    <a href="CV - Keury Ramirez - 2024 EN.pdf" download>
+    <a href="https://github.com/K3ury99/K3ury99/raw/main/CV%20-%20Keury%20Ramirez%20-%202024%20EN.pdf" download>
       <img src="https://img.shields.io/badge/Descargar%20CV-%23007bff?style=for-the-badge&logo=download&logoColor=white" alt="Descargar CV">
     </a>
   </h1>
