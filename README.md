@@ -1,12 +1,6 @@
    
 <img src="https://github.com/user-attachments/assets/4c7139ff-132d-41ad-8ef6-3e2a8b8c2655"> 
 
-<p align="center">
-  <a href="https://github.com/K3ury99/K3ury99/blob/main/CV%20-%20Keury%20Ramirez%20-%202024%20EN.pdf" download>
-    <img src="https://img.shields.io/badge/Descargar%20CV-%23007bff?style=for-the-badge&logo=download&logoColor=white" alt="Descargar CV">
-  </a>
-</p>
-
 <div align="center"> 
 <h1 align="center">Hey, I´m <a  href="https://github.com/K3ury99">Keury Ramírez</a>.</h1>   
 </div>   
@@ -15,7 +9,11 @@
 <h3 align="center">An application developer and tester 👾, interested in the optimization and correct functioning of applications 🛠. From time to time I´m making improvements to projects and learning new things to implement.🍃</h3>
 </div>
 
- 
+<p align="center">
+  <a href="https://github.com/K3ury99/K3ury99/blob/main/CV%20-%20Keury%20Ramirez%20-%202024%20EN.pdf" download>
+    <img src="https://img.shields.io/badge/Descargar%20CV-%23007bff?style=for-the-badge&logo=download&logoColor=white" alt="Descargar CV">
+  </a>
+</p>
  
 # 📔 `About me:`
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
