@@ -50,7 +50,8 @@
 # ✍️ `Dev Quote`
 <!----- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) ----->
    ```bash
-   "Every great developer got there by solving problems they were unqualified to solve until they actually did it." - Unknown
+   "Every great developer got there by solving problems they were unqualified to solve,
+    until they actually did it." - Unknown
    ```
 
 <a href=#><img src="snake-that-contributes.svg"></a>
