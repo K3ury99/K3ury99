@@ -49,7 +49,7 @@
 
 # ✍️ `Dev Quote`
 <!----- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) ----->
-   ```bash
+   ```text
    "Every great developer got there by solving problems they were unqualified to solve,
     until they actually did it." - Unknown
    ```
