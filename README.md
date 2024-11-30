@@ -5,10 +5,18 @@
   <h1 align="center">
     Hey, I’m <a href="https://github.com/K3ury99">Keury Ramírez</a>
     <a href="https://github.com/K3ury99/K3ury99/raw/main/CV%20-%20Keury%20Ramirez%20-%202024%20EN.pdf" download>
-      <img src="https://img.shields.io/badge/Download%20CV-%23007bff?style=for-the-badge&logo=download&logoColor=white" alt="Download CV">
     </a>
   </h1>
 </div>
+
+<div align="center">
+
+[![download_cv](https://img.shields.io/badge/download_CV-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/K3ury99/K3ury99/raw/main/CV%20-%20Keury%20Ramirez%20-%202024%20EN.pdf)
+[![portfolio](https://img.shields.io/badge/my_portfolio-FF5757?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.youtube.com/watch?v=9fBhWbg0xgs&list=PLpwu3FlMDKKcMPyi0mcyj5WJSc66yvYOq)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keury03/)
+
+</div>
+
 
 <div align="center">
 <h3 align="center">An application developer and tester 👾, interested in the optimization and correct functioning of applications 🛠. From time to time I´m making improvements to projects and learning new things to implement.🍃</h3>
