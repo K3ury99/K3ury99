@@ -30,7 +30,7 @@
 
 - 👾 I’m currently learning **Asp.Net-Core MVC "Clean Arquitecture" & API**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development & BD**
 
 - 📫 How to reach me **keury2004@hotmail.com**
 
